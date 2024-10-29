@@ -1,4 +1,4 @@
 
 # Bem vindo ao curso GitHub
 
-TESTE
+DESCRICAO DO MEU README
